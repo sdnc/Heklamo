@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+.card {
+  display: inline-block;
+  width: 260px;
+  height: 300px;
+}
+
+.image {
+  
+  overflow: hidden;
+}

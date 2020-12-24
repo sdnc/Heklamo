@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+.card {
+  display: inline-block;
+}
+
+.image {
+  width: 360px;
+  height: 400px;
+  overflow: hidden;
+}
